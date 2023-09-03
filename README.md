@@ -1,3 +1,3 @@
 # Algorithms
 <br>
-<h1> Author : Yazdani </h1>
+<h4> Author : Yazdani </h4>
